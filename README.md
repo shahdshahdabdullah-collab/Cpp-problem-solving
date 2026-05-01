@@ -1,1 +1,2 @@
-# Cpp-problem-solving
+# C++ Problem Solving Journey 🚀
+مرحباً! هذا المستودع لتوثيق رحلتي في تعلم البرمجة وحل المشكلات بـ C++.
